@@ -1,0 +1,18 @@
+.card {
+    background: silver;
+    height: 200px;
+    width:30%;
+}
+
+.person {
+    height: 200px;
+    width:20%;
+    float: left;
+}
+
+.avatar {
+    height: 200px;
+    width:20%;
+    float: right;
+}
+
